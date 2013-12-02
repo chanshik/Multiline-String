@@ -23,7 +23,8 @@ Original *pom.xml*
 
 In Mac OS X, tools.jar no more exist. 
 
-Reference: https://developer.apple.com/library/mac/documentation/Java/Conceptual/Java14Development/02-JavaDevTools/JavaDevTools.html
+Reference: [JavaDevTools.html](https://developer.apple.com/library/mac/documentation/Java/Conceptual/Java14Development/02-JavaDevTools/JavaDevTools.html)
+
 
 Modified *pom_mac.xml*
 ```xml
@@ -37,6 +38,7 @@ Modified *pom_mac.xml*
      </dependency>
    </dependencies>
 ```
+
 
 Build
 ```
