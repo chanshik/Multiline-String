@@ -42,5 +42,5 @@ Modified *pom_mac.xml*
 
 Build
 ```
-   $ mvn -f pom_mac.xml claen compile
+   $ mvn -f pom_mac.xml claen install
 ```
