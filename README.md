@@ -21,7 +21,7 @@ Original *pom.xml*
    </dependencies>
 ```
 
-In Mac OS X, tools.jar no more exist. 
+In Mac OS X, tools.jar no more exists. 
 
 Reference: [JavaDevTools.html](https://developer.apple.com/library/mac/documentation/Java/Conceptual/Java14Development/02-JavaDevTools/JavaDevTools.html)
 
@@ -42,5 +42,5 @@ Modified *pom_mac.xml*
 
 Build
 ```
-   $ mvn -f pom_mac.xml claen install
+   $ mvn -f pom_mac.xml clean install
 ```
